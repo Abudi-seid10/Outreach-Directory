@@ -12,7 +12,7 @@ The Stakeholder Outreach Project is a web application designed to manage and eng
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Abudi-seid10/Outreach-Directory.git](https://github.com/Abudi-seid10/Outreach-Directory.git)
+   git clone https://github.com/Abudi-seid10/Outreach-Directory.git
    ```
 2. Navigate to the project directory:
    ```bash
